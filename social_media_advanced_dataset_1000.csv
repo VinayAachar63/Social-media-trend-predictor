@@ -1,0 +1,1001 @@
+id,date,text,user,location,business_type,likes,shares
+1,2024-03-14,Disappointed with product quality,user_1,Chennai,retail shop,410,164
+2,2024-01-19,"Waste of money, not recommended",user_2,Chennai,restaurant,392,69
+3,2024-02-12,"Worst experience ever, very disappointed",user_3,Chennai,retail shop,409,27
+4,2024-03-30,Disappointed with product quality,user_4,Bangalore,cafe,278,93
+5,2024-02-16,Average ambiance and service,user_5,Bangalore,retail shop,348,66
+6,2024-01-01,"Worst experience ever, very disappointed",user_6,Delhi,cafe,53,97
+7,2024-01-10,"Waste of money, not recommended",user_7,Delhi,retail shop,274,108
+8,2024-02-25,Very satisfied with the service provided,user_8,Mumbai,cafe,38,37
+9,2024-03-13,Bad quality food and poor hygiene,user_9,Hyderabad,retail shop,332,12
+10,2024-03-02,Disappointed with product quality,user_10,Chennai,retail shop,32,40
+11,2024-03-17,Awesome ambience and delicious food,user_11,Chennai,retail shop,72,140
+12,2024-03-20,Very slow service and bad management,user_12,Delhi,cafe,282,37
+13,2024-02-21,Poor customer support and delays,user_13,Mumbai,mall,241,114
+14,2024-02-28,Bad quality food and poor hygiene,user_14,Chennai,restaurant,431,112
+15,2024-03-27,Very satisfied with the service provided,user_15,Chennai,food outlet,352,68
+16,2024-01-25,"Worst experience ever, very disappointed",user_16,Bangalore,restaurant,147,155
+17,2024-03-22,"Excellent quality products, highly recommended",user_17,Delhi,restaurant,248,106
+18,2024-01-24,Just a regular experience,user_18,Delhi,retail shop,213,58
+19,2024-03-13,Just a regular experience,user_19,Mumbai,cafe,134,144
+20,2024-01-31,"Horrible experience, will not return",user_20,Bangalore,cafe,318,87
+21,2024-01-20,Very satisfied with the service provided,user_21,Chennai,retail shop,21,186
+22,2024-03-18,Just a regular experience,user_22,Chennai,retail shop,336,171
+23,2024-02-22,Not worth the price at all,user_23,Bangalore,cafe,329,53
+24,2024-02-28,Very satisfied with the service provided,user_24,Hyderabad,mall,468,120
+25,2024-03-22,Very slow service and bad management,user_25,Delhi,mall,82,136
+26,2024-01-27,Perfect place for family dinner,user_26,Chennai,mall,326,183
+27,2024-02-09,Nothing impressive but acceptable,user_27,Mumbai,cafe,180,54
+28,2024-02-19,"Worst experience ever, very disappointed",user_28,Mumbai,retail shop,492,60
+29,2024-02-24,"Excellent quality products, highly recommended",user_29,Bangalore,mall,378,67
+30,2024-03-01,The experience was okay overall,user_30,Bangalore,restaurant,98,164
+31,2024-01-16,Great service and friendly staff at the cafe,user_31,Mumbai,restaurant,487,65
+32,2024-03-26,Bad quality food and poor hygiene,user_32,Bangalore,mall,479,134
+33,2024-03-14,Amazing experience shopping here,user_33,Bangalore,restaurant,325,75
+34,2024-02-08,Disappointed with product quality,user_34,Chennai,mall,492,107
+35,2024-03-02,Poor customer support and delays,user_35,Bangalore,cafe,122,51
+36,2024-01-20,Just a regular experience,user_36,Bangalore,mall,465,17
+37,2024-01-12,Very slow service and bad management,user_37,Hyderabad,cafe,208,182
+38,2024-01-15,"Best place in town, very happy with service",user_38,Hyderabad,restaurant,23,195
+39,2024-02-17,"Loved the food at this restaurant, amazing taste!",user_39,Delhi,retail shop,172,156
+40,2024-02-19,Not worth the price at all,user_40,Chennai,retail shop,9,17
+41,2024-02-10,Poor customer support and delays,user_41,Bangalore,restaurant,354,135
+42,2024-03-07,"Excellent quality products, highly recommended",user_42,Hyderabad,retail shop,301,63
+43,2024-03-29,Bad quality food and poor hygiene,user_43,Bangalore,food outlet,285,6
+44,2024-01-26,Just a regular experience,user_44,Mumbai,food outlet,217,198
+45,2024-03-12,Average ambiance and service,user_45,Mumbai,cafe,273,183
+46,2024-01-16,"Loved the food at this restaurant, amazing taste!",user_46,Delhi,restaurant,101,21
+47,2024-02-27,"Excellent quality products, highly recommended",user_47,Chennai,restaurant,239,141
+48,2024-01-21,Nothing impressive but acceptable,user_48,Chennai,mall,220,199
+49,2024-02-17,Very satisfied with the service provided,user_49,Chennai,food outlet,176,140
+50,2024-01-17,"The place is okay, average experience",user_50,Bangalore,retail shop,479,43
+51,2024-03-06,Perfect place for family dinner,user_51,Mumbai,cafe,158,32
+52,2024-02-25,"Horrible experience, will not return",user_52,Mumbai,restaurant,375,52
+53,2024-03-19,Bad quality food and poor hygiene,user_53,Delhi,mall,315,10
+54,2024-02-08,"Waste of money, not recommended",user_54,Hyderabad,food outlet,30,66
+55,2024-03-12,"Horrible experience, will not return",user_55,Chennai,retail shop,62,150
+56,2024-01-03,"It was fine, nothing memorable",user_56,Bangalore,retail shop,209,83
+57,2024-03-25,"Food is normal, nothing special",user_57,Delhi,restaurant,12,35
+58,2024-01-26,Poor customer support and delays,user_58,Delhi,food outlet,29,160
+59,2024-01-27,It was an average visit,user_59,Chennai,restaurant,81,181
+60,2024-01-18,"Food is normal, nothing special",user_60,Mumbai,retail shop,99,61
+61,2024-01-10,Moderate quality and decent service,user_61,Chennai,food outlet,78,119
+62,2024-01-22,Awful service and dirty place,user_62,Chennai,mall,269,63
+63,2024-03-24,Awesome ambience and delicious food,user_63,Delhi,mall,367,166
+64,2024-02-04,"Worst experience ever, very disappointed",user_64,Chennai,food outlet,499,96
+65,2024-01-14,Average ambiance and service,user_65,Hyderabad,retail shop,149,1
+66,2024-02-26,Just a regular experience,user_66,Bangalore,mall,46,24
+67,2024-03-08,"Excellent quality products, highly recommended",user_67,Bangalore,cafe,446,173
+68,2024-02-17,Super fast delivery and great packaging,user_68,Bangalore,food outlet,412,9
+69,2024-01-25,"The place is okay, average experience",user_69,Chennai,restaurant,50,174
+70,2024-02-27,"Best place in town, very happy with service",user_70,Bangalore,retail shop,296,30
+71,2024-03-28,Awesome ambience and delicious food,user_71,Hyderabad,restaurant,62,26
+72,2024-02-29,Average ambiance and service,user_72,Bangalore,cafe,233,45
+73,2024-03-11,Amazing experience shopping here,user_73,Mumbai,mall,382,200
+74,2024-01-21,Average ambiance and service,user_74,Mumbai,retail shop,44,200
+75,2024-02-08,"Excellent quality products, highly recommended",user_75,Chennai,retail shop,195,194
+76,2024-03-07,"Horrible experience, will not return",user_76,Chennai,restaurant,9,182
+77,2024-03-17,Average ambiance and service,user_77,Chennai,mall,422,189
+78,2024-01-30,Awesome ambience and delicious food,user_78,Bangalore,restaurant,136,172
+79,2024-02-22,Not worth the price at all,user_79,Hyderabad,restaurant,382,155
+80,2024-02-23,Perfect place for family dinner,user_80,Delhi,retail shop,224,150
+81,2024-01-28,Amazing experience shopping here,user_81,Chennai,cafe,451,145
+82,2024-01-05,Amazing experience shopping here,user_82,Chennai,restaurant,477,81
+83,2024-02-22,Super fast delivery and great packaging,user_83,Mumbai,cafe,421,149
+84,2024-01-07,Awesome ambience and delicious food,user_84,Delhi,food outlet,180,183
+85,2024-02-20,Amazing experience shopping here,user_85,Bangalore,mall,436,107
+86,2024-03-15,"Loved the food at this restaurant, amazing taste!",user_86,Delhi,mall,137,111
+87,2024-02-26,"Waste of money, not recommended",user_87,Delhi,retail shop,448,176
+88,2024-01-21,Terrible service and rude staff,user_88,Delhi,food outlet,490,94
+89,2024-02-19,Bad quality food and poor hygiene,user_89,Bangalore,mall,371,34
+90,2024-03-09,"Waste of money, not recommended",user_90,Mumbai,restaurant,413,132
+91,2024-02-06,"The place is okay, average experience",user_91,Hyderabad,food outlet,253,156
+92,2024-01-22,"Horrible experience, will not return",user_92,Chennai,cafe,283,24
+93,2024-03-12,"Waste of money, not recommended",user_93,Bangalore,mall,275,178
+94,2024-03-05,Amazing experience shopping here,user_94,Bangalore,restaurant,191,157
+95,2024-02-12,Bad quality food and poor hygiene,user_95,Chennai,restaurant,154,42
+96,2024-01-06,Moderate quality and decent service,user_96,Delhi,food outlet,232,123
+97,2024-03-19,Super fast delivery and great packaging,user_97,Hyderabad,cafe,213,91
+98,2024-01-08,"Waste of money, not recommended",user_98,Hyderabad,retail shop,423,67
+99,2024-01-24,Very satisfied with the service provided,user_99,Mumbai,cafe,65,52
+100,2024-02-23,Not worth the price at all,user_100,Hyderabad,food outlet,420,14
+101,2024-01-03,"Best place in town, very happy with service",user_101,Bangalore,food outlet,39,131
+102,2024-01-19,"Best place in town, very happy with service",user_102,Mumbai,food outlet,0,92
+103,2024-02-05,Very slow service and bad management,user_103,Chennai,restaurant,449,154
+104,2024-03-18,Very satisfied with the service provided,user_104,Bangalore,restaurant,345,40
+105,2024-01-04,"The place is okay, average experience",user_105,Mumbai,mall,323,175
+106,2024-01-03,"Fantastic experience, will visit again",user_106,Mumbai,cafe,208,52
+107,2024-03-16,"Service was fine, not too good not bad",user_107,Delhi,mall,174,148
+108,2024-01-06,Awful service and dirty place,user_108,Bangalore,mall,54,129
+109,2024-01-22,It was an average visit,user_109,Chennai,cafe,324,159
+110,2024-01-05,"It was fine, nothing memorable",user_110,Delhi,food outlet,403,48
+111,2024-01-28,"Best place in town, very happy with service",user_111,Chennai,food outlet,266,167
+112,2024-02-19,"Waste of money, not recommended",user_112,Chennai,mall,142,35
+113,2024-03-16,"Food is normal, nothing special",user_113,Delhi,restaurant,310,0
+114,2024-03-03,"Service was fine, not too good not bad",user_114,Chennai,restaurant,334,65
+115,2024-02-29,Disappointed with product quality,user_115,Hyderabad,restaurant,351,192
+116,2024-01-28,"Fantastic experience, will visit again",user_116,Delhi,mall,419,162
+117,2024-01-08,Terrible service and rude staff,user_117,Mumbai,mall,463,197
+118,2024-02-14,Perfect place for family dinner,user_118,Hyderabad,retail shop,274,46
+119,2024-01-28,Amazing experience shopping here,user_119,Mumbai,restaurant,423,120
+120,2024-03-25,Terrible service and rude staff,user_120,Hyderabad,cafe,375,14
+121,2024-01-09,Moderate quality and decent service,user_121,Chennai,retail shop,447,40
+122,2024-01-21,Perfect place for family dinner,user_122,Chennai,restaurant,72,11
+123,2024-02-22,"It was fine, nothing memorable",user_123,Chennai,food outlet,77,4
+124,2024-02-01,Awesome ambience and delicious food,user_124,Bangalore,mall,345,37
+125,2024-01-10,"Excellent quality products, highly recommended",user_125,Hyderabad,cafe,353,129
+126,2024-02-20,"Horrible experience, will not return",user_126,Hyderabad,cafe,330,96
+127,2024-03-14,Awesome ambience and delicious food,user_127,Delhi,cafe,419,156
+128,2024-01-14,Super fast delivery and great packaging,user_128,Hyderabad,restaurant,209,69
+129,2024-01-18,It was an average visit,user_129,Mumbai,food outlet,159,173
+130,2024-01-06,"Food is normal, nothing special",user_130,Bangalore,retail shop,493,105
+131,2024-03-27,Very slow service and bad management,user_131,Chennai,mall,263,143
+132,2024-03-22,"Service was fine, not too good not bad",user_132,Hyderabad,mall,125,162
+133,2024-02-20,The experience was okay overall,user_133,Chennai,retail shop,468,129
+134,2024-03-06,"Best place in town, very happy with service",user_134,Delhi,mall,97,135
+135,2024-02-28,"Food is normal, nothing special",user_135,Mumbai,restaurant,253,2
+136,2024-02-04,Disappointed with product quality,user_136,Mumbai,retail shop,7,139
+137,2024-01-12,Awesome ambience and delicious food,user_137,Mumbai,cafe,296,140
+138,2024-01-27,It was an average visit,user_138,Delhi,food outlet,326,67
+139,2024-02-04,Perfect place for family dinner,user_139,Bangalore,cafe,7,38
+140,2024-01-24,"Best place in town, very happy with service",user_140,Chennai,retail shop,303,169
+141,2024-03-23,"Excellent quality products, highly recommended",user_141,Bangalore,restaurant,263,142
+142,2024-03-26,Disappointed with product quality,user_142,Delhi,retail shop,352,42
+143,2024-02-23,"It was fine, nothing memorable",user_143,Chennai,cafe,490,87
+144,2024-01-20,"Best place in town, very happy with service",user_144,Mumbai,restaurant,393,110
+145,2024-03-08,It was an average visit,user_145,Mumbai,restaurant,86,96
+146,2024-01-03,Just a regular experience,user_146,Mumbai,mall,478,193
+147,2024-02-18,"Horrible experience, will not return",user_147,Bangalore,food outlet,52,126
+148,2024-01-07,Nothing impressive but acceptable,user_148,Hyderabad,mall,371,30
+149,2024-01-29,It was an average visit,user_149,Hyderabad,cafe,2,31
+150,2024-02-06,Just a regular experience,user_150,Hyderabad,food outlet,204,34
+151,2024-01-16,"Waste of money, not recommended",user_151,Bangalore,cafe,400,200
+152,2024-02-04,Awful service and dirty place,user_152,Delhi,food outlet,417,57
+153,2024-01-11,"Excellent quality products, highly recommended",user_153,Chennai,cafe,328,43
+154,2024-03-24,"Excellent quality products, highly recommended",user_154,Chennai,cafe,429,156
+155,2024-01-08,Nothing impressive but acceptable,user_155,Chennai,retail shop,96,183
+156,2024-02-02,Just a regular experience,user_156,Hyderabad,cafe,493,176
+157,2024-01-01,"Loved the food at this restaurant, amazing taste!",user_157,Bangalore,retail shop,219,129
+158,2024-02-28,Average ambiance and service,user_158,Delhi,food outlet,37,179
+159,2024-01-29,It was an average visit,user_159,Bangalore,retail shop,375,18
+160,2024-01-21,Very slow service and bad management,user_160,Chennai,cafe,95,37
+161,2024-02-26,"Loved the food at this restaurant, amazing taste!",user_161,Bangalore,retail shop,198,18
+162,2024-02-16,Amazing experience shopping here,user_162,Chennai,retail shop,308,41
+163,2024-02-01,Great service and friendly staff at the cafe,user_163,Hyderabad,cafe,64,70
+164,2024-01-04,"Service was fine, not too good not bad",user_164,Mumbai,retail shop,51,11
+165,2024-03-10,"Loved the food at this restaurant, amazing taste!",user_165,Bangalore,food outlet,45,104
+166,2024-01-26,Great service and friendly staff at the cafe,user_166,Chennai,restaurant,239,82
+167,2024-01-04,Not worth the price at all,user_167,Chennai,restaurant,433,102
+168,2024-02-06,"Food is normal, nothing special",user_168,Chennai,cafe,172,23
+169,2024-03-03,Average ambiance and service,user_169,Mumbai,food outlet,177,166
+170,2024-01-28,"The place is okay, average experience",user_170,Chennai,food outlet,380,9
+171,2024-03-01,Super fast delivery and great packaging,user_171,Delhi,food outlet,494,85
+172,2024-01-01,"Worst experience ever, very disappointed",user_172,Mumbai,retail shop,167,117
+173,2024-02-26,Moderate quality and decent service,user_173,Mumbai,cafe,106,198
+174,2024-01-11,Very satisfied with the service provided,user_174,Bangalore,mall,329,56
+175,2024-02-05,Amazing experience shopping here,user_175,Mumbai,food outlet,315,69
+176,2024-03-24,"It was fine, nothing memorable",user_176,Delhi,food outlet,23,25
+177,2024-02-28,Very slow service and bad management,user_177,Mumbai,retail shop,203,99
+178,2024-01-18,"Waste of money, not recommended",user_178,Delhi,cafe,460,172
+179,2024-02-05,Average ambiance and service,user_179,Bangalore,restaurant,68,97
+180,2024-03-23,Just a regular experience,user_180,Bangalore,mall,283,74
+181,2024-03-23,"Food is normal, nothing special",user_181,Bangalore,restaurant,183,13
+182,2024-01-14,Super fast delivery and great packaging,user_182,Delhi,food outlet,244,167
+183,2024-01-09,Very satisfied with the service provided,user_183,Chennai,retail shop,169,22
+184,2024-01-14,"Food is normal, nothing special",user_184,Delhi,restaurant,197,198
+185,2024-03-18,Super fast delivery and great packaging,user_185,Delhi,mall,73,143
+186,2024-03-26,Disappointed with product quality,user_186,Hyderabad,retail shop,86,80
+187,2024-02-22,Awesome ambience and delicious food,user_187,Bangalore,mall,158,123
+188,2024-02-21,"Waste of money, not recommended",user_188,Hyderabad,food outlet,89,67
+189,2024-03-09,Disappointed with product quality,user_189,Mumbai,restaurant,241,86
+190,2024-03-14,Bad quality food and poor hygiene,user_190,Hyderabad,food outlet,4,16
+191,2024-03-31,"Fantastic experience, will visit again",user_191,Bangalore,mall,91,38
+192,2024-01-17,Awesome ambience and delicious food,user_192,Mumbai,food outlet,373,150
+193,2024-01-14,"Waste of money, not recommended",user_193,Delhi,restaurant,136,198
+194,2024-02-01,"Food is normal, nothing special",user_194,Delhi,retail shop,486,129
+195,2024-02-04,Very slow service and bad management,user_195,Chennai,food outlet,307,134
+196,2024-01-09,Terrible service and rude staff,user_196,Chennai,cafe,337,142
+197,2024-01-24,Very slow service and bad management,user_197,Chennai,cafe,48,20
+198,2024-01-22,"It was fine, nothing memorable",user_198,Bangalore,mall,491,47
+199,2024-01-22,"Best place in town, very happy with service",user_199,Chennai,retail shop,2,34
+200,2024-02-01,It was an average visit,user_200,Mumbai,cafe,492,7
+201,2024-02-08,"Horrible experience, will not return",user_201,Delhi,retail shop,348,71
+202,2024-02-07,Moderate quality and decent service,user_202,Mumbai,food outlet,442,146
+203,2024-01-28,Perfect place for family dinner,user_203,Mumbai,cafe,291,165
+204,2024-03-01,"Fantastic experience, will visit again",user_204,Chennai,mall,414,87
+205,2024-02-07,"Loved the food at this restaurant, amazing taste!",user_205,Hyderabad,cafe,298,131
+206,2024-02-16,Super fast delivery and great packaging,user_206,Mumbai,mall,292,120
+207,2024-03-05,Poor customer support and delays,user_207,Chennai,food outlet,405,138
+208,2024-02-08,Nothing impressive but acceptable,user_208,Hyderabad,mall,215,64
+209,2024-01-21,Nothing impressive but acceptable,user_209,Chennai,retail shop,18,193
+210,2024-01-01,Great service and friendly staff at the cafe,user_210,Bangalore,mall,40,122
+211,2024-02-04,"Horrible experience, will not return",user_211,Mumbai,cafe,342,176
+212,2024-02-07,"Waste of money, not recommended",user_212,Mumbai,retail shop,101,53
+213,2024-01-04,Just a regular experience,user_213,Bangalore,mall,255,81
+214,2024-01-09,Just a regular experience,user_214,Delhi,mall,236,43
+215,2024-02-21,It was an average visit,user_215,Mumbai,food outlet,104,194
+216,2024-03-05,Awesome ambience and delicious food,user_216,Mumbai,food outlet,25,107
+217,2024-01-17,Terrible service and rude staff,user_217,Hyderabad,food outlet,296,17
+218,2024-03-16,"It was fine, nothing memorable",user_218,Mumbai,restaurant,469,77
+219,2024-03-31,"Loved the food at this restaurant, amazing taste!",user_219,Mumbai,food outlet,385,66
+220,2024-02-16,"The place is okay, average experience",user_220,Hyderabad,food outlet,445,172
+221,2024-03-15,Awful service and dirty place,user_221,Bangalore,cafe,191,34
+222,2024-02-09,Very satisfied with the service provided,user_222,Chennai,mall,301,131
+223,2024-02-26,Perfect place for family dinner,user_223,Hyderabad,restaurant,500,194
+224,2024-02-18,"Waste of money, not recommended",user_224,Chennai,retail shop,251,57
+225,2024-03-30,Disappointed with product quality,user_225,Mumbai,restaurant,204,86
+226,2024-01-07,Great service and friendly staff at the cafe,user_226,Hyderabad,mall,372,106
+227,2024-03-21,The experience was okay overall,user_227,Chennai,food outlet,202,136
+228,2024-01-26,Bad quality food and poor hygiene,user_228,Delhi,mall,201,82
+229,2024-03-31,Disappointed with product quality,user_229,Mumbai,mall,444,10
+230,2024-01-28,Poor customer support and delays,user_230,Mumbai,restaurant,84,132
+231,2024-03-17,Super fast delivery and great packaging,user_231,Hyderabad,restaurant,144,150
+232,2024-02-26,Disappointed with product quality,user_232,Delhi,restaurant,341,19
+233,2024-03-18,Just a regular experience,user_233,Bangalore,retail shop,46,47
+234,2024-03-05,Disappointed with product quality,user_234,Hyderabad,food outlet,178,191
+235,2024-01-27,Average ambiance and service,user_235,Delhi,cafe,364,49
+236,2024-01-29,Awesome ambience and delicious food,user_236,Mumbai,retail shop,121,95
+237,2024-03-31,Terrible service and rude staff,user_237,Delhi,food outlet,364,165
+238,2024-01-30,Very satisfied with the service provided,user_238,Delhi,mall,324,3
+239,2024-01-16,"Loved the food at this restaurant, amazing taste!",user_239,Bangalore,mall,350,122
+240,2024-01-19,"Horrible experience, will not return",user_240,Chennai,mall,26,99
+241,2024-03-28,"Best place in town, very happy with service",user_241,Chennai,restaurant,357,93
+242,2024-03-18,"Horrible experience, will not return",user_242,Bangalore,retail shop,301,120
+243,2024-02-12,"Worst experience ever, very disappointed",user_243,Bangalore,restaurant,462,195
+244,2024-01-31,Super fast delivery and great packaging,user_244,Hyderabad,mall,390,151
+245,2024-02-04,Average ambiance and service,user_245,Mumbai,cafe,25,134
+246,2024-03-15,"Loved the food at this restaurant, amazing taste!",user_246,Bangalore,retail shop,303,21
+247,2024-03-21,"Best place in town, very happy with service",user_247,Chennai,food outlet,376,186
+248,2024-01-04,"Horrible experience, will not return",user_248,Delhi,mall,34,100
+249,2024-02-26,Very slow service and bad management,user_249,Mumbai,cafe,443,136
+250,2024-03-19,"Loved the food at this restaurant, amazing taste!",user_250,Hyderabad,cafe,315,31
+251,2024-01-28,Moderate quality and decent service,user_251,Mumbai,food outlet,241,197
+252,2024-03-18,Very satisfied with the service provided,user_252,Chennai,retail shop,494,77
+253,2024-02-21,Super fast delivery and great packaging,user_253,Mumbai,food outlet,480,17
+254,2024-01-22,"Loved the food at this restaurant, amazing taste!",user_254,Bangalore,cafe,173,103
+255,2024-02-27,It was an average visit,user_255,Chennai,restaurant,273,118
+256,2024-03-25,Amazing experience shopping here,user_256,Hyderabad,food outlet,151,170
+257,2024-02-08,Awful service and dirty place,user_257,Hyderabad,cafe,484,143
+258,2024-03-05,Nothing impressive but acceptable,user_258,Chennai,food outlet,446,141
+259,2024-02-16,The experience was okay overall,user_259,Mumbai,restaurant,42,116
+260,2024-01-23,Moderate quality and decent service,user_260,Hyderabad,food outlet,249,4
+261,2024-03-25,"Worst experience ever, very disappointed",user_261,Bangalore,restaurant,323,26
+262,2024-03-15,"Excellent quality products, highly recommended",user_262,Bangalore,mall,371,190
+263,2024-01-18,"Service was fine, not too good not bad",user_263,Delhi,cafe,457,89
+264,2024-01-13,"Best place in town, very happy with service",user_264,Delhi,retail shop,482,184
+265,2024-03-26,Bad quality food and poor hygiene,user_265,Mumbai,restaurant,101,46
+266,2024-03-05,"Service was fine, not too good not bad",user_266,Bangalore,cafe,336,168
+267,2024-03-29,Just a regular experience,user_267,Bangalore,mall,337,126
+268,2024-02-20,"The place is okay, average experience",user_268,Bangalore,restaurant,402,36
+269,2024-03-27,"The place is okay, average experience",user_269,Delhi,mall,28,112
+270,2024-01-22,It was an average visit,user_270,Bangalore,restaurant,444,93
+271,2024-01-22,Nothing impressive but acceptable,user_271,Hyderabad,restaurant,200,143
+272,2024-01-26,Disappointed with product quality,user_272,Mumbai,cafe,418,26
+273,2024-02-14,Great service and friendly staff at the cafe,user_273,Mumbai,retail shop,284,143
+274,2024-01-22,Nothing impressive but acceptable,user_274,Hyderabad,retail shop,257,77
+275,2024-03-28,The experience was okay overall,user_275,Hyderabad,mall,365,80
+276,2024-03-10,Just a regular experience,user_276,Chennai,cafe,317,130
+277,2024-02-24,"Best place in town, very happy with service",user_277,Chennai,food outlet,315,16
+278,2024-01-02,Terrible service and rude staff,user_278,Bangalore,retail shop,383,70
+279,2024-03-05,"Service was fine, not too good not bad",user_279,Hyderabad,restaurant,71,186
+280,2024-02-17,"The place is okay, average experience",user_280,Chennai,food outlet,450,143
+281,2024-03-04,"Food is normal, nothing special",user_281,Bangalore,mall,246,8
+282,2024-02-10,"Waste of money, not recommended",user_282,Mumbai,mall,363,57
+283,2024-02-20,"Fantastic experience, will visit again",user_283,Hyderabad,cafe,256,61
+284,2024-01-27,"Service was fine, not too good not bad",user_284,Hyderabad,food outlet,418,12
+285,2024-03-20,Not worth the price at all,user_285,Hyderabad,food outlet,397,4
+286,2024-01-11,"Loved the food at this restaurant, amazing taste!",user_286,Bangalore,restaurant,130,196
+287,2024-02-14,Average ambiance and service,user_287,Chennai,retail shop,280,82
+288,2024-03-22,Awful service and dirty place,user_288,Bangalore,cafe,364,74
+289,2024-01-27,Bad quality food and poor hygiene,user_289,Delhi,food outlet,324,34
+290,2024-01-31,Very satisfied with the service provided,user_290,Delhi,food outlet,189,60
+291,2024-02-19,"Excellent quality products, highly recommended",user_291,Hyderabad,retail shop,34,200
+292,2024-02-24,"Waste of money, not recommended",user_292,Hyderabad,cafe,195,25
+293,2024-01-12,"Excellent quality products, highly recommended",user_293,Chennai,cafe,175,77
+294,2024-02-20,Average ambiance and service,user_294,Chennai,mall,158,68
+295,2024-03-30,Terrible service and rude staff,user_295,Delhi,restaurant,270,176
+296,2024-01-24,Just a regular experience,user_296,Hyderabad,mall,378,117
+297,2024-01-31,"The place is okay, average experience",user_297,Mumbai,retail shop,152,134
+298,2024-01-14,Not worth the price at all,user_298,Chennai,restaurant,499,187
+299,2024-03-01,It was an average visit,user_299,Hyderabad,retail shop,128,119
+300,2024-02-23,"Loved the food at this restaurant, amazing taste!",user_300,Bangalore,mall,27,153
+301,2024-02-19,Not worth the price at all,user_301,Bangalore,retail shop,267,36
+302,2024-01-12,Bad quality food and poor hygiene,user_302,Hyderabad,restaurant,81,57
+303,2024-03-05,Very slow service and bad management,user_303,Bangalore,mall,250,144
+304,2024-02-17,Perfect place for family dinner,user_304,Bangalore,retail shop,114,12
+305,2024-02-29,"The place is okay, average experience",user_305,Mumbai,food outlet,381,95
+306,2024-03-11,"Fantastic experience, will visit again",user_306,Chennai,mall,15,163
+307,2024-03-05,Disappointed with product quality,user_307,Delhi,restaurant,403,119
+308,2024-02-24,It was an average visit,user_308,Chennai,food outlet,178,38
+309,2024-03-06,"Food is normal, nothing special",user_309,Mumbai,retail shop,350,13
+310,2024-01-03,"Horrible experience, will not return",user_310,Chennai,retail shop,371,8
+311,2024-03-19,Super fast delivery and great packaging,user_311,Bangalore,mall,423,126
+312,2024-03-22,Great service and friendly staff at the cafe,user_312,Chennai,cafe,490,72
+313,2024-01-15,It was an average visit,user_313,Mumbai,retail shop,317,115
+314,2024-03-08,"Fantastic experience, will visit again",user_314,Hyderabad,restaurant,266,162
+315,2024-03-24,"Food is normal, nothing special",user_315,Delhi,mall,138,25
+316,2024-02-28,Moderate quality and decent service,user_316,Mumbai,mall,179,24
+317,2024-02-06,Moderate quality and decent service,user_317,Mumbai,restaurant,98,151
+318,2024-03-17,Amazing experience shopping here,user_318,Delhi,cafe,125,82
+319,2024-02-17,Poor customer support and delays,user_319,Hyderabad,restaurant,153,22
+320,2024-02-26,"Food is normal, nothing special",user_320,Delhi,retail shop,64,7
+321,2024-02-17,Bad quality food and poor hygiene,user_321,Delhi,restaurant,379,30
+322,2024-01-13,"Horrible experience, will not return",user_322,Hyderabad,restaurant,210,43
+323,2024-03-03,Bad quality food and poor hygiene,user_323,Delhi,restaurant,270,60
+324,2024-01-13,Moderate quality and decent service,user_324,Bangalore,restaurant,61,94
+325,2024-01-26,Disappointed with product quality,user_325,Chennai,retail shop,243,178
+326,2024-01-16,Nothing impressive but acceptable,user_326,Mumbai,restaurant,400,133
+327,2024-03-31,"Food is normal, nothing special",user_327,Chennai,cafe,72,189
+328,2024-01-19,Amazing experience shopping here,user_328,Delhi,food outlet,419,120
+329,2024-01-23,"Worst experience ever, very disappointed",user_329,Chennai,mall,19,34
+330,2024-03-05,Just a regular experience,user_330,Delhi,food outlet,179,187
+331,2024-03-20,Not worth the price at all,user_331,Delhi,retail shop,477,18
+332,2024-02-20,"It was fine, nothing memorable",user_332,Chennai,cafe,338,72
+333,2024-03-02,Very satisfied with the service provided,user_333,Hyderabad,food outlet,25,31
+334,2024-02-06,Awful service and dirty place,user_334,Mumbai,cafe,71,163
+335,2024-03-07,"Service was fine, not too good not bad",user_335,Bangalore,food outlet,206,11
+336,2024-01-10,Awful service and dirty place,user_336,Bangalore,cafe,143,117
+337,2024-03-24,Moderate quality and decent service,user_337,Mumbai,cafe,43,143
+338,2024-03-23,Very satisfied with the service provided,user_338,Hyderabad,mall,300,187
+339,2024-01-16,"Loved the food at this restaurant, amazing taste!",user_339,Mumbai,restaurant,276,86
+340,2024-01-11,"Waste of money, not recommended",user_340,Bangalore,restaurant,74,134
+341,2024-02-03,It was an average visit,user_341,Hyderabad,mall,110,121
+342,2024-01-24,"It was fine, nothing memorable",user_342,Bangalore,mall,375,24
+343,2024-02-05,Bad quality food and poor hygiene,user_343,Mumbai,retail shop,341,101
+344,2024-02-29,Awesome ambience and delicious food,user_344,Bangalore,food outlet,464,175
+345,2024-01-14,Awful service and dirty place,user_345,Bangalore,restaurant,298,199
+346,2024-02-21,Bad quality food and poor hygiene,user_346,Chennai,retail shop,203,67
+347,2024-01-19,"Worst experience ever, very disappointed",user_347,Bangalore,mall,108,23
+348,2024-02-22,"Food is normal, nothing special",user_348,Chennai,food outlet,158,152
+349,2024-02-27,Average ambiance and service,user_349,Bangalore,mall,264,14
+350,2024-01-14,Disappointed with product quality,user_350,Bangalore,food outlet,440,42
+351,2024-03-21,Moderate quality and decent service,user_351,Hyderabad,retail shop,247,142
+352,2024-03-02,It was an average visit,user_352,Delhi,cafe,411,98
+353,2024-02-11,"Service was fine, not too good not bad",user_353,Bangalore,cafe,291,165
+354,2024-03-09,Bad quality food and poor hygiene,user_354,Delhi,food outlet,170,118
+355,2024-02-06,Great service and friendly staff at the cafe,user_355,Hyderabad,mall,68,0
+356,2024-02-28,Perfect place for family dinner,user_356,Delhi,cafe,239,88
+357,2024-02-24,Disappointed with product quality,user_357,Mumbai,restaurant,87,95
+358,2024-02-21,"It was fine, nothing memorable",user_358,Chennai,mall,295,54
+359,2024-03-09,It was an average visit,user_359,Hyderabad,restaurant,276,99
+360,2024-02-28,Average ambiance and service,user_360,Mumbai,cafe,279,122
+361,2024-03-06,Amazing experience shopping here,user_361,Delhi,cafe,433,40
+362,2024-01-13,Terrible service and rude staff,user_362,Hyderabad,mall,422,72
+363,2024-01-24,Terrible service and rude staff,user_363,Bangalore,retail shop,49,176
+364,2024-03-30,Very satisfied with the service provided,user_364,Delhi,food outlet,219,10
+365,2024-01-15,Very slow service and bad management,user_365,Mumbai,retail shop,152,58
+366,2024-03-26,Bad quality food and poor hygiene,user_366,Mumbai,food outlet,499,148
+367,2024-03-17,Terrible service and rude staff,user_367,Bangalore,retail shop,81,45
+368,2024-01-04,Poor customer support and delays,user_368,Bangalore,cafe,94,186
+369,2024-03-16,It was an average visit,user_369,Bangalore,cafe,230,97
+370,2024-02-04,Very satisfied with the service provided,user_370,Chennai,retail shop,106,77
+371,2024-01-24,"The place is okay, average experience",user_371,Hyderabad,mall,0,75
+372,2024-01-21,Great service and friendly staff at the cafe,user_372,Hyderabad,retail shop,450,120
+373,2024-03-26,Awful service and dirty place,user_373,Bangalore,food outlet,386,35
+374,2024-02-29,Just a regular experience,user_374,Hyderabad,cafe,285,117
+375,2024-02-23,Very satisfied with the service provided,user_375,Hyderabad,food outlet,343,12
+376,2024-02-06,"Excellent quality products, highly recommended",user_376,Chennai,food outlet,466,153
+377,2024-02-19,Very satisfied with the service provided,user_377,Delhi,cafe,486,68
+378,2024-03-08,"Best place in town, very happy with service",user_378,Mumbai,mall,83,20
+379,2024-02-19,Average ambiance and service,user_379,Hyderabad,retail shop,422,179
+380,2024-01-17,Average ambiance and service,user_380,Mumbai,food outlet,374,55
+381,2024-01-23,The experience was okay overall,user_381,Delhi,cafe,163,20
+382,2024-01-11,Super fast delivery and great packaging,user_382,Hyderabad,retail shop,358,1
+383,2024-03-07,Awful service and dirty place,user_383,Hyderabad,food outlet,208,69
+384,2024-02-09,"Excellent quality products, highly recommended",user_384,Mumbai,mall,219,173
+385,2024-02-05,Nothing impressive but acceptable,user_385,Chennai,restaurant,448,80
+386,2024-03-04,Not worth the price at all,user_386,Delhi,food outlet,21,40
+387,2024-01-14,It was an average visit,user_387,Mumbai,food outlet,34,25
+388,2024-01-01,Nothing impressive but acceptable,user_388,Hyderabad,cafe,446,70
+389,2024-02-26,Nothing impressive but acceptable,user_389,Hyderabad,food outlet,448,159
+390,2024-03-28,The experience was okay overall,user_390,Chennai,restaurant,62,34
+391,2024-01-29,"Horrible experience, will not return",user_391,Delhi,mall,239,31
+392,2024-02-06,Disappointed with product quality,user_392,Bangalore,cafe,226,52
+393,2024-01-26,"Waste of money, not recommended",user_393,Chennai,cafe,249,16
+394,2024-01-03,Perfect place for family dinner,user_394,Mumbai,retail shop,153,172
+395,2024-01-04,"Food is normal, nothing special",user_395,Delhi,food outlet,20,97
+396,2024-01-02,Average ambiance and service,user_396,Delhi,retail shop,283,149
+397,2024-01-22,Moderate quality and decent service,user_397,Hyderabad,restaurant,356,125
+398,2024-02-14,Amazing experience shopping here,user_398,Hyderabad,cafe,36,113
+399,2024-01-02,"Worst experience ever, very disappointed",user_399,Mumbai,mall,440,33
+400,2024-03-15,"Loved the food at this restaurant, amazing taste!",user_400,Chennai,mall,92,91
+401,2024-03-11,"Service was fine, not too good not bad",user_401,Mumbai,retail shop,93,99
+402,2024-02-20,Bad quality food and poor hygiene,user_402,Hyderabad,cafe,277,103
+403,2024-02-08,"The place is okay, average experience",user_403,Mumbai,mall,454,127
+404,2024-03-09,Awesome ambience and delicious food,user_404,Bangalore,cafe,264,17
+405,2024-03-31,Very satisfied with the service provided,user_405,Delhi,mall,173,79
+406,2024-01-21,"Waste of money, not recommended",user_406,Delhi,restaurant,346,59
+407,2024-03-20,Not worth the price at all,user_407,Mumbai,food outlet,59,130
+408,2024-01-25,"Food is normal, nothing special",user_408,Chennai,retail shop,409,66
+409,2024-03-09,Not worth the price at all,user_409,Hyderabad,restaurant,156,93
+410,2024-01-28,"It was fine, nothing memorable",user_410,Hyderabad,retail shop,33,188
+411,2024-03-04,"It was fine, nothing memorable",user_411,Chennai,food outlet,129,22
+412,2024-01-09,"Fantastic experience, will visit again",user_412,Mumbai,food outlet,443,104
+413,2024-02-24,Nothing impressive but acceptable,user_413,Hyderabad,cafe,13,39
+414,2024-03-05,"The place is okay, average experience",user_414,Chennai,retail shop,213,18
+415,2024-01-31,"Excellent quality products, highly recommended",user_415,Bangalore,mall,459,57
+416,2024-03-27,Terrible service and rude staff,user_416,Mumbai,food outlet,45,84
+417,2024-01-22,"Excellent quality products, highly recommended",user_417,Mumbai,retail shop,462,199
+418,2024-01-21,Average ambiance and service,user_418,Chennai,mall,70,55
+419,2024-03-09,Terrible service and rude staff,user_419,Chennai,food outlet,280,147
+420,2024-03-03,Very satisfied with the service provided,user_420,Delhi,restaurant,184,150
+421,2024-01-08,Average ambiance and service,user_421,Mumbai,restaurant,450,94
+422,2024-01-29,"Worst experience ever, very disappointed",user_422,Bangalore,retail shop,225,190
+423,2024-01-13,Great service and friendly staff at the cafe,user_423,Mumbai,mall,375,82
+424,2024-03-17,"Loved the food at this restaurant, amazing taste!",user_424,Delhi,cafe,32,81
+425,2024-03-16,"The place is okay, average experience",user_425,Mumbai,mall,414,156
+426,2024-01-09,It was an average visit,user_426,Bangalore,retail shop,41,144
+427,2024-03-23,Perfect place for family dinner,user_427,Mumbai,restaurant,339,106
+428,2024-01-23,Poor customer support and delays,user_428,Hyderabad,retail shop,317,190
+429,2024-01-11,"Food is normal, nothing special",user_429,Delhi,retail shop,144,69
+430,2024-03-10,Amazing experience shopping here,user_430,Hyderabad,mall,417,23
+431,2024-03-30,"Horrible experience, will not return",user_431,Bangalore,mall,465,29
+432,2024-02-09,"Service was fine, not too good not bad",user_432,Bangalore,retail shop,52,121
+433,2024-01-22,"Waste of money, not recommended",user_433,Bangalore,restaurant,158,14
+434,2024-01-04,"Horrible experience, will not return",user_434,Bangalore,retail shop,64,155
+435,2024-03-10,Average ambiance and service,user_435,Chennai,restaurant,10,188
+436,2024-03-15,Nothing impressive but acceptable,user_436,Bangalore,restaurant,20,110
+437,2024-01-24,Very satisfied with the service provided,user_437,Mumbai,cafe,268,3
+438,2024-03-23,Very slow service and bad management,user_438,Hyderabad,food outlet,57,30
+439,2024-01-06,"Loved the food at this restaurant, amazing taste!",user_439,Mumbai,food outlet,300,30
+440,2024-02-21,Nothing impressive but acceptable,user_440,Delhi,restaurant,443,200
+441,2024-03-07,Just a regular experience,user_441,Hyderabad,restaurant,292,47
+442,2024-03-04,"It was fine, nothing memorable",user_442,Delhi,cafe,154,31
+443,2024-01-11,"Excellent quality products, highly recommended",user_443,Mumbai,mall,135,100
+444,2024-03-22,Amazing experience shopping here,user_444,Bangalore,restaurant,107,30
+445,2024-03-20,Awful service and dirty place,user_445,Delhi,retail shop,458,112
+446,2024-02-08,"Best place in town, very happy with service",user_446,Bangalore,retail shop,254,163
+447,2024-03-27,Nothing impressive but acceptable,user_447,Delhi,retail shop,57,110
+448,2024-03-30,"It was fine, nothing memorable",user_448,Delhi,food outlet,254,88
+449,2024-02-26,Very satisfied with the service provided,user_449,Chennai,cafe,16,172
+450,2024-02-26,Moderate quality and decent service,user_450,Bangalore,cafe,247,97
+451,2024-03-25,Awesome ambience and delicious food,user_451,Delhi,retail shop,474,123
+452,2024-03-12,Disappointed with product quality,user_452,Hyderabad,mall,420,15
+453,2024-03-20,"Worst experience ever, very disappointed",user_453,Mumbai,retail shop,16,128
+454,2024-03-12,"The place is okay, average experience",user_454,Mumbai,food outlet,240,173
+455,2024-03-13,"Best place in town, very happy with service",user_455,Hyderabad,cafe,225,187
+456,2024-03-06,"Fantastic experience, will visit again",user_456,Delhi,retail shop,420,152
+457,2024-03-01,"Loved the food at this restaurant, amazing taste!",user_457,Mumbai,restaurant,336,167
+458,2024-03-26,Bad quality food and poor hygiene,user_458,Bangalore,mall,340,178
+459,2024-02-18,Moderate quality and decent service,user_459,Delhi,restaurant,285,143
+460,2024-02-02,Just a regular experience,user_460,Delhi,restaurant,103,105
+461,2024-03-28,The experience was okay overall,user_461,Mumbai,cafe,328,112
+462,2024-02-10,Amazing experience shopping here,user_462,Chennai,restaurant,299,200
+463,2024-01-23,Terrible service and rude staff,user_463,Delhi,cafe,224,195
+464,2024-03-05,"The place is okay, average experience",user_464,Chennai,mall,140,181
+465,2024-02-14,Moderate quality and decent service,user_465,Delhi,cafe,292,10
+466,2024-01-26,Awful service and dirty place,user_466,Mumbai,restaurant,119,190
+467,2024-02-05,Bad quality food and poor hygiene,user_467,Delhi,retail shop,70,137
+468,2024-02-28,Just a regular experience,user_468,Chennai,cafe,265,27
+469,2024-03-03,Very slow service and bad management,user_469,Bangalore,cafe,72,184
+470,2024-01-25,"Worst experience ever, very disappointed",user_470,Delhi,mall,228,189
+471,2024-03-27,The experience was okay overall,user_471,Bangalore,cafe,68,102
+472,2024-03-31,Terrible service and rude staff,user_472,Delhi,cafe,321,125
+473,2024-02-11,Just a regular experience,user_473,Delhi,cafe,128,22
+474,2024-02-14,It was an average visit,user_474,Mumbai,mall,49,104
+475,2024-03-07,Terrible service and rude staff,user_475,Chennai,mall,305,66
+476,2024-02-06,It was an average visit,user_476,Hyderabad,cafe,51,79
+477,2024-03-31,Average ambiance and service,user_477,Chennai,food outlet,16,77
+478,2024-03-07,"It was fine, nothing memorable",user_478,Chennai,cafe,260,192
+479,2024-01-06,Awesome ambience and delicious food,user_479,Bangalore,cafe,54,177
+480,2024-03-25,Awful service and dirty place,user_480,Chennai,mall,466,42
+481,2024-01-27,Great service and friendly staff at the cafe,user_481,Hyderabad,cafe,463,5
+482,2024-01-07,Moderate quality and decent service,user_482,Delhi,cafe,309,49
+483,2024-01-12,Amazing experience shopping here,user_483,Bangalore,restaurant,58,55
+484,2024-01-14,"Worst experience ever, very disappointed",user_484,Hyderabad,cafe,155,112
+485,2024-03-08,It was an average visit,user_485,Chennai,mall,433,143
+486,2024-01-23,"Service was fine, not too good not bad",user_486,Chennai,mall,334,147
+487,2024-03-12,Awesome ambience and delicious food,user_487,Mumbai,food outlet,0,112
+488,2024-01-10,Amazing experience shopping here,user_488,Bangalore,mall,229,60
+489,2024-01-17,Amazing experience shopping here,user_489,Chennai,food outlet,14,138
+490,2024-01-06,"Food is normal, nothing special",user_490,Mumbai,food outlet,70,87
+491,2024-02-25,Great service and friendly staff at the cafe,user_491,Chennai,retail shop,14,10
+492,2024-01-01,Moderate quality and decent service,user_492,Bangalore,restaurant,397,11
+493,2024-02-13,Bad quality food and poor hygiene,user_493,Mumbai,mall,418,97
+494,2024-01-13,Just a regular experience,user_494,Delhi,retail shop,79,13
+495,2024-01-04,Poor customer support and delays,user_495,Hyderabad,retail shop,32,58
+496,2024-03-11,"Fantastic experience, will visit again",user_496,Chennai,retail shop,152,7
+497,2024-03-09,Awesome ambience and delicious food,user_497,Mumbai,cafe,441,106
+498,2024-02-27,"Loved the food at this restaurant, amazing taste!",user_498,Chennai,cafe,43,125
+499,2024-03-28,Average ambiance and service,user_499,Delhi,retail shop,84,32
+500,2024-02-23,"Fantastic experience, will visit again",user_500,Delhi,cafe,477,113
+501,2024-01-23,It was an average visit,user_501,Bangalore,retail shop,166,149
+502,2024-03-18,The experience was okay overall,user_502,Bangalore,retail shop,390,166
+503,2024-02-13,"Fantastic experience, will visit again",user_503,Mumbai,mall,100,167
+504,2024-03-16,Moderate quality and decent service,user_504,Hyderabad,restaurant,323,129
+505,2024-03-19,Super fast delivery and great packaging,user_505,Bangalore,cafe,215,88
+506,2024-02-17,Not worth the price at all,user_506,Mumbai,restaurant,130,184
+507,2024-01-21,It was an average visit,user_507,Delhi,restaurant,485,5
+508,2024-01-04,"The place is okay, average experience",user_508,Hyderabad,restaurant,115,79
+509,2024-01-16,The experience was okay overall,user_509,Delhi,restaurant,189,83
+510,2024-03-18,"Waste of money, not recommended",user_510,Mumbai,food outlet,427,53
+511,2024-02-24,Average ambiance and service,user_511,Bangalore,cafe,487,169
+512,2024-02-28,"Horrible experience, will not return",user_512,Bangalore,food outlet,108,161
+513,2024-01-27,Nothing impressive but acceptable,user_513,Hyderabad,food outlet,365,81
+514,2024-03-11,"It was fine, nothing memorable",user_514,Hyderabad,restaurant,206,128
+515,2024-03-09,Nothing impressive but acceptable,user_515,Chennai,retail shop,97,157
+516,2024-01-06,Poor customer support and delays,user_516,Bangalore,mall,263,146
+517,2024-02-04,Nothing impressive but acceptable,user_517,Mumbai,retail shop,484,161
+518,2024-02-10,"It was fine, nothing memorable",user_518,Chennai,food outlet,473,134
+519,2024-02-12,Awesome ambience and delicious food,user_519,Bangalore,mall,216,88
+520,2024-03-26,"Excellent quality products, highly recommended",user_520,Delhi,cafe,357,105
+521,2024-03-12,Perfect place for family dinner,user_521,Delhi,food outlet,367,48
+522,2024-02-08,Terrible service and rude staff,user_522,Bangalore,cafe,141,120
+523,2024-02-07,"Loved the food at this restaurant, amazing taste!",user_523,Bangalore,food outlet,146,21
+524,2024-02-10,Bad quality food and poor hygiene,user_524,Bangalore,restaurant,160,37
+525,2024-03-07,"Service was fine, not too good not bad",user_525,Hyderabad,food outlet,442,167
+526,2024-01-07,It was an average visit,user_526,Bangalore,retail shop,240,73
+527,2024-01-23,Moderate quality and decent service,user_527,Mumbai,retail shop,29,136
+528,2024-01-13,The experience was okay overall,user_528,Delhi,cafe,70,22
+529,2024-03-16,Great service and friendly staff at the cafe,user_529,Chennai,food outlet,334,20
+530,2024-02-28,Great service and friendly staff at the cafe,user_530,Hyderabad,restaurant,175,32
+531,2024-02-01,"Service was fine, not too good not bad",user_531,Bangalore,retail shop,328,115
+532,2024-01-14,Not worth the price at all,user_532,Mumbai,retail shop,214,59
+533,2024-03-14,Very slow service and bad management,user_533,Delhi,retail shop,43,59
+534,2024-01-06,Terrible service and rude staff,user_534,Delhi,food outlet,385,192
+535,2024-01-24,It was an average visit,user_535,Mumbai,cafe,133,171
+536,2024-01-18,The experience was okay overall,user_536,Chennai,cafe,385,144
+537,2024-03-27,Nothing impressive but acceptable,user_537,Chennai,cafe,488,109
+538,2024-01-14,Average ambiance and service,user_538,Delhi,retail shop,202,194
+539,2024-03-02,"Excellent quality products, highly recommended",user_539,Bangalore,food outlet,451,110
+540,2024-01-04,Moderate quality and decent service,user_540,Mumbai,mall,238,17
+541,2024-02-15,Very satisfied with the service provided,user_541,Chennai,food outlet,132,141
+542,2024-03-17,Super fast delivery and great packaging,user_542,Delhi,retail shop,427,181
+543,2024-01-25,Terrible service and rude staff,user_543,Chennai,cafe,431,27
+544,2024-01-28,"Waste of money, not recommended",user_544,Delhi,food outlet,359,58
+545,2024-03-26,Awful service and dirty place,user_545,Bangalore,restaurant,69,86
+546,2024-03-25,Awesome ambience and delicious food,user_546,Hyderabad,cafe,198,127
+547,2024-03-31,Awful service and dirty place,user_547,Hyderabad,cafe,325,173
+548,2024-02-22,Terrible service and rude staff,user_548,Mumbai,food outlet,332,100
+549,2024-02-03,Terrible service and rude staff,user_549,Hyderabad,retail shop,396,87
+550,2024-01-31,"Service was fine, not too good not bad",user_550,Hyderabad,restaurant,469,144
+551,2024-03-11,Poor customer support and delays,user_551,Bangalore,food outlet,203,51
+552,2024-01-10,Bad quality food and poor hygiene,user_552,Hyderabad,cafe,88,184
+553,2024-01-27,The experience was okay overall,user_553,Mumbai,mall,110,64
+554,2024-03-27,"Service was fine, not too good not bad",user_554,Mumbai,cafe,181,184
+555,2024-03-22,"The place is okay, average experience",user_555,Bangalore,mall,270,158
+556,2024-02-10,Super fast delivery and great packaging,user_556,Hyderabad,cafe,392,182
+557,2024-01-24,Nothing impressive but acceptable,user_557,Chennai,retail shop,71,95
+558,2024-01-31,Awesome ambience and delicious food,user_558,Chennai,food outlet,231,63
+559,2024-02-14,Great service and friendly staff at the cafe,user_559,Delhi,retail shop,264,161
+560,2024-01-30,"Service was fine, not too good not bad",user_560,Chennai,food outlet,96,122
+561,2024-02-07,"Fantastic experience, will visit again",user_561,Chennai,food outlet,94,5
+562,2024-03-23,Disappointed with product quality,user_562,Delhi,retail shop,497,125
+563,2024-03-10,Just a regular experience,user_563,Mumbai,cafe,340,30
+564,2024-03-29,Just a regular experience,user_564,Chennai,restaurant,167,183
+565,2024-01-17,Poor customer support and delays,user_565,Chennai,cafe,21,84
+566,2024-01-15,Disappointed with product quality,user_566,Chennai,food outlet,387,110
+567,2024-03-12,"Service was fine, not too good not bad",user_567,Chennai,food outlet,331,59
+568,2024-03-04,"Loved the food at this restaurant, amazing taste!",user_568,Bangalore,restaurant,252,120
+569,2024-03-31,Bad quality food and poor hygiene,user_569,Mumbai,mall,424,67
+570,2024-02-05,"Waste of money, not recommended",user_570,Chennai,food outlet,488,2
+571,2024-03-21,Nothing impressive but acceptable,user_571,Bangalore,retail shop,346,61
+572,2024-02-19,Perfect place for family dinner,user_572,Mumbai,restaurant,318,125
+573,2024-01-09,"The place is okay, average experience",user_573,Delhi,cafe,398,48
+574,2024-03-29,"Food is normal, nothing special",user_574,Delhi,food outlet,347,169
+575,2024-02-12,"Service was fine, not too good not bad",user_575,Bangalore,retail shop,241,122
+576,2024-03-19,"Food is normal, nothing special",user_576,Mumbai,cafe,42,66
+577,2024-01-29,"Horrible experience, will not return",user_577,Delhi,retail shop,219,30
+578,2024-03-14,Nothing impressive but acceptable,user_578,Mumbai,food outlet,318,134
+579,2024-02-24,Great service and friendly staff at the cafe,user_579,Bangalore,retail shop,84,161
+580,2024-01-12,Terrible service and rude staff,user_580,Bangalore,restaurant,222,133
+581,2024-03-25,Super fast delivery and great packaging,user_581,Mumbai,food outlet,330,70
+582,2024-03-11,Awesome ambience and delicious food,user_582,Hyderabad,retail shop,0,128
+583,2024-03-30,Great service and friendly staff at the cafe,user_583,Delhi,cafe,99,144
+584,2024-03-10,"Loved the food at this restaurant, amazing taste!",user_584,Hyderabad,restaurant,490,2
+585,2024-02-15,Terrible service and rude staff,user_585,Chennai,cafe,324,178
+586,2024-01-29,"It was fine, nothing memorable",user_586,Chennai,retail shop,145,178
+587,2024-03-28,Nothing impressive but acceptable,user_587,Delhi,cafe,225,131
+588,2024-03-01,Very satisfied with the service provided,user_588,Mumbai,food outlet,286,111
+589,2024-02-18,"Horrible experience, will not return",user_589,Mumbai,retail shop,407,93
+590,2024-02-09,"Best place in town, very happy with service",user_590,Delhi,cafe,392,189
+591,2024-01-19,"Best place in town, very happy with service",user_591,Mumbai,food outlet,160,139
+592,2024-03-23,"Horrible experience, will not return",user_592,Hyderabad,food outlet,180,95
+593,2024-01-25,Not worth the price at all,user_593,Chennai,mall,177,126
+594,2024-03-29,Awful service and dirty place,user_594,Chennai,mall,437,103
+595,2024-01-14,"Fantastic experience, will visit again",user_595,Chennai,food outlet,330,122
+596,2024-01-06,Terrible service and rude staff,user_596,Mumbai,mall,1,151
+597,2024-01-20,"Service was fine, not too good not bad",user_597,Delhi,retail shop,70,140
+598,2024-03-20,Bad quality food and poor hygiene,user_598,Hyderabad,restaurant,445,37
+599,2024-03-22,Not worth the price at all,user_599,Bangalore,restaurant,358,95
+600,2024-02-02,Poor customer support and delays,user_600,Bangalore,cafe,471,198
+601,2024-02-24,"Excellent quality products, highly recommended",user_601,Chennai,restaurant,192,70
+602,2024-01-31,The experience was okay overall,user_602,Hyderabad,mall,0,76
+603,2024-03-22,Awesome ambience and delicious food,user_603,Hyderabad,retail shop,283,107
+604,2024-02-20,Amazing experience shopping here,user_604,Delhi,restaurant,278,0
+605,2024-01-27,Amazing experience shopping here,user_605,Bangalore,restaurant,264,14
+606,2024-03-18,Disappointed with product quality,user_606,Mumbai,restaurant,442,194
+607,2024-01-20,"Fantastic experience, will visit again",user_607,Mumbai,retail shop,280,175
+608,2024-01-24,"Service was fine, not too good not bad",user_608,Chennai,mall,129,135
+609,2024-02-15,"Excellent quality products, highly recommended",user_609,Delhi,food outlet,107,124
+610,2024-03-19,Poor customer support and delays,user_610,Hyderabad,restaurant,229,125
+611,2024-03-24,Super fast delivery and great packaging,user_611,Hyderabad,retail shop,355,69
+612,2024-03-03,Terrible service and rude staff,user_612,Chennai,retail shop,204,119
+613,2024-01-13,Amazing experience shopping here,user_613,Chennai,retail shop,230,39
+614,2024-02-14,Bad quality food and poor hygiene,user_614,Bangalore,retail shop,237,13
+615,2024-03-24,Nothing impressive but acceptable,user_615,Bangalore,mall,205,52
+616,2024-01-26,"The place is okay, average experience",user_616,Hyderabad,restaurant,213,100
+617,2024-02-07,"Service was fine, not too good not bad",user_617,Chennai,restaurant,497,176
+618,2024-01-14,Super fast delivery and great packaging,user_618,Bangalore,cafe,400,183
+619,2024-02-22,Nothing impressive but acceptable,user_619,Hyderabad,retail shop,108,98
+620,2024-02-26,"Horrible experience, will not return",user_620,Hyderabad,mall,474,154
+621,2024-02-21,Perfect place for family dinner,user_621,Hyderabad,mall,12,148
+622,2024-02-26,The experience was okay overall,user_622,Chennai,retail shop,413,134
+623,2024-01-29,Great service and friendly staff at the cafe,user_623,Chennai,cafe,420,26
+624,2024-02-11,"Horrible experience, will not return",user_624,Mumbai,restaurant,129,35
+625,2024-03-26,It was an average visit,user_625,Bangalore,retail shop,13,2
+626,2024-02-19,"Service was fine, not too good not bad",user_626,Hyderabad,food outlet,5,165
+627,2024-01-08,Average ambiance and service,user_627,Hyderabad,cafe,315,180
+628,2024-01-30,Average ambiance and service,user_628,Hyderabad,restaurant,319,79
+629,2024-03-11,"The place is okay, average experience",user_629,Hyderabad,cafe,96,93
+630,2024-02-12,Nothing impressive but acceptable,user_630,Mumbai,retail shop,499,149
+631,2024-03-19,It was an average visit,user_631,Chennai,food outlet,93,106
+632,2024-01-04,Poor customer support and delays,user_632,Chennai,cafe,448,61
+633,2024-03-16,"Horrible experience, will not return",user_633,Mumbai,retail shop,38,37
+634,2024-02-09,Bad quality food and poor hygiene,user_634,Bangalore,cafe,461,3
+635,2024-02-12,Just a regular experience,user_635,Mumbai,food outlet,439,19
+636,2024-03-19,Perfect place for family dinner,user_636,Mumbai,cafe,367,26
+637,2024-01-18,Average ambiance and service,user_637,Bangalore,cafe,266,158
+638,2024-03-24,Very slow service and bad management,user_638,Bangalore,food outlet,265,49
+639,2024-03-30,"Worst experience ever, very disappointed",user_639,Chennai,retail shop,164,147
+640,2024-01-20,"Worst experience ever, very disappointed",user_640,Bangalore,food outlet,126,128
+641,2024-02-23,"The place is okay, average experience",user_641,Hyderabad,restaurant,281,115
+642,2024-03-19,Super fast delivery and great packaging,user_642,Bangalore,food outlet,461,102
+643,2024-01-05,Bad quality food and poor hygiene,user_643,Delhi,retail shop,264,158
+644,2024-03-17,Amazing experience shopping here,user_644,Delhi,mall,228,73
+645,2024-01-21,The experience was okay overall,user_645,Mumbai,restaurant,283,17
+646,2024-02-17,Disappointed with product quality,user_646,Hyderabad,retail shop,449,111
+647,2024-01-13,Awful service and dirty place,user_647,Hyderabad,restaurant,177,33
+648,2024-02-16,Bad quality food and poor hygiene,user_648,Chennai,cafe,109,191
+649,2024-01-21,"Worst experience ever, very disappointed",user_649,Delhi,cafe,294,16
+650,2024-02-07,Poor customer support and delays,user_650,Hyderabad,cafe,424,160
+651,2024-01-04,"Horrible experience, will not return",user_651,Hyderabad,food outlet,203,69
+652,2024-03-16,"Service was fine, not too good not bad",user_652,Mumbai,cafe,341,3
+653,2024-03-31,Awesome ambience and delicious food,user_653,Bangalore,mall,340,84
+654,2024-03-14,Moderate quality and decent service,user_654,Bangalore,cafe,298,156
+655,2024-03-30,Perfect place for family dinner,user_655,Hyderabad,cafe,204,188
+656,2024-02-07,It was an average visit,user_656,Bangalore,restaurant,119,172
+657,2024-01-04,Disappointed with product quality,user_657,Hyderabad,food outlet,494,184
+658,2024-01-12,Disappointed with product quality,user_658,Hyderabad,restaurant,67,54
+659,2024-01-01,"The place is okay, average experience",user_659,Mumbai,cafe,492,104
+660,2024-03-08,Not worth the price at all,user_660,Hyderabad,retail shop,246,136
+661,2024-01-31,Amazing experience shopping here,user_661,Mumbai,cafe,319,30
+662,2024-02-22,Bad quality food and poor hygiene,user_662,Delhi,retail shop,240,161
+663,2024-03-03,Terrible service and rude staff,user_663,Hyderabad,restaurant,296,91
+664,2024-01-29,It was an average visit,user_664,Hyderabad,restaurant,132,53
+665,2024-01-25,Just a regular experience,user_665,Mumbai,food outlet,208,35
+666,2024-03-30,"It was fine, nothing memorable",user_666,Hyderabad,mall,469,17
+667,2024-02-25,"Horrible experience, will not return",user_667,Hyderabad,food outlet,455,129
+668,2024-03-30,Perfect place for family dinner,user_668,Bangalore,cafe,117,112
+669,2024-02-04,"Loved the food at this restaurant, amazing taste!",user_669,Bangalore,mall,255,101
+670,2024-01-24,Just a regular experience,user_670,Bangalore,retail shop,353,47
+671,2024-01-19,Great service and friendly staff at the cafe,user_671,Bangalore,mall,331,58
+672,2024-03-17,"Fantastic experience, will visit again",user_672,Bangalore,restaurant,287,130
+673,2024-02-17,Nothing impressive but acceptable,user_673,Delhi,cafe,337,55
+674,2024-01-31,"Excellent quality products, highly recommended",user_674,Chennai,mall,495,110
+675,2024-03-16,Perfect place for family dinner,user_675,Mumbai,mall,463,118
+676,2024-03-31,Very slow service and bad management,user_676,Delhi,restaurant,485,53
+677,2024-02-24,Terrible service and rude staff,user_677,Mumbai,retail shop,165,32
+678,2024-01-02,Great service and friendly staff at the cafe,user_678,Chennai,food outlet,121,109
+679,2024-01-28,Terrible service and rude staff,user_679,Hyderabad,mall,88,127
+680,2024-01-28,Awful service and dirty place,user_680,Mumbai,food outlet,484,158
+681,2024-03-21,Average ambiance and service,user_681,Hyderabad,mall,17,119
+682,2024-03-14,"Food is normal, nothing special",user_682,Mumbai,retail shop,363,176
+683,2024-03-04,Very slow service and bad management,user_683,Delhi,food outlet,248,70
+684,2024-01-21,Awesome ambience and delicious food,user_684,Hyderabad,food outlet,123,100
+685,2024-01-26,Perfect place for family dinner,user_685,Mumbai,food outlet,213,10
+686,2024-03-23,"Worst experience ever, very disappointed",user_686,Mumbai,mall,452,189
+687,2024-02-16,Perfect place for family dinner,user_687,Mumbai,cafe,160,89
+688,2024-01-21,"Best place in town, very happy with service",user_688,Delhi,retail shop,482,158
+689,2024-01-06,"Waste of money, not recommended",user_689,Chennai,food outlet,128,20
+690,2024-01-17,Amazing experience shopping here,user_690,Bangalore,mall,485,90
+691,2024-02-14,Very satisfied with the service provided,user_691,Chennai,food outlet,324,141
+692,2024-02-14,"Best place in town, very happy with service",user_692,Mumbai,restaurant,87,58
+693,2024-02-09,Poor customer support and delays,user_693,Delhi,cafe,134,140
+694,2024-02-10,Just a regular experience,user_694,Delhi,mall,427,175
+695,2024-03-13,Amazing experience shopping here,user_695,Mumbai,mall,438,158
+696,2024-03-31,"Excellent quality products, highly recommended",user_696,Hyderabad,mall,269,122
+697,2024-03-20,"Service was fine, not too good not bad",user_697,Mumbai,cafe,470,8
+698,2024-02-24,Very slow service and bad management,user_698,Bangalore,food outlet,202,61
+699,2024-01-30,Perfect place for family dinner,user_699,Hyderabad,food outlet,256,96
+700,2024-02-12,Average ambiance and service,user_700,Delhi,retail shop,191,134
+701,2024-01-03,Bad quality food and poor hygiene,user_701,Mumbai,cafe,400,190
+702,2024-02-04,"Loved the food at this restaurant, amazing taste!",user_702,Hyderabad,retail shop,452,143
+703,2024-03-12,Very satisfied with the service provided,user_703,Mumbai,mall,89,58
+704,2024-03-28,Perfect place for family dinner,user_704,Bangalore,food outlet,193,3
+705,2024-03-04,"Loved the food at this restaurant, amazing taste!",user_705,Delhi,food outlet,38,170
+706,2024-02-01,Moderate quality and decent service,user_706,Hyderabad,retail shop,354,170
+707,2024-03-31,Perfect place for family dinner,user_707,Chennai,mall,472,32
+708,2024-02-21,"Horrible experience, will not return",user_708,Delhi,retail shop,398,91
+709,2024-01-07,"Excellent quality products, highly recommended",user_709,Hyderabad,cafe,444,53
+710,2024-01-27,Moderate quality and decent service,user_710,Mumbai,mall,314,33
+711,2024-01-21,"The place is okay, average experience",user_711,Hyderabad,mall,319,6
+712,2024-02-28,"Loved the food at this restaurant, amazing taste!",user_712,Chennai,cafe,129,139
+713,2024-03-20,"Fantastic experience, will visit again",user_713,Bangalore,cafe,37,112
+714,2024-03-28,Great service and friendly staff at the cafe,user_714,Chennai,restaurant,155,33
+715,2024-01-15,"Loved the food at this restaurant, amazing taste!",user_715,Mumbai,retail shop,141,111
+716,2024-03-22,Nothing impressive but acceptable,user_716,Mumbai,restaurant,110,91
+717,2024-01-12,"Excellent quality products, highly recommended",user_717,Chennai,restaurant,331,3
+718,2024-02-28,Bad quality food and poor hygiene,user_718,Hyderabad,retail shop,497,45
+719,2024-02-11,"The place is okay, average experience",user_719,Delhi,retail shop,475,43
+720,2024-03-10,"Horrible experience, will not return",user_720,Delhi,restaurant,375,189
+721,2024-01-31,"Worst experience ever, very disappointed",user_721,Hyderabad,mall,204,115
+722,2024-02-29,Great service and friendly staff at the cafe,user_722,Bangalore,cafe,361,117
+723,2024-01-21,"Service was fine, not too good not bad",user_723,Chennai,cafe,201,85
+724,2024-03-21,"Service was fine, not too good not bad",user_724,Hyderabad,restaurant,441,177
+725,2024-03-01,"Waste of money, not recommended",user_725,Delhi,food outlet,411,34
+726,2024-02-28,Super fast delivery and great packaging,user_726,Delhi,restaurant,148,76
+727,2024-02-01,Very slow service and bad management,user_727,Hyderabad,food outlet,251,117
+728,2024-03-02,"Fantastic experience, will visit again",user_728,Bangalore,mall,177,142
+729,2024-01-19,Disappointed with product quality,user_729,Hyderabad,food outlet,366,173
+730,2024-02-27,"Fantastic experience, will visit again",user_730,Delhi,retail shop,76,190
+731,2024-01-08,The experience was okay overall,user_731,Chennai,food outlet,124,120
+732,2024-02-11,It was an average visit,user_732,Delhi,mall,30,57
+733,2024-01-13,"Worst experience ever, very disappointed",user_733,Delhi,retail shop,99,65
+734,2024-03-24,The experience was okay overall,user_734,Mumbai,retail shop,120,148
+735,2024-03-15,Average ambiance and service,user_735,Delhi,retail shop,307,192
+736,2024-01-13,Awful service and dirty place,user_736,Bangalore,restaurant,187,140
+737,2024-01-20,Not worth the price at all,user_737,Bangalore,cafe,310,121
+738,2024-03-29,Just a regular experience,user_738,Hyderabad,restaurant,288,71
+739,2024-02-27,Just a regular experience,user_739,Mumbai,food outlet,87,192
+740,2024-01-16,"Excellent quality products, highly recommended",user_740,Delhi,food outlet,242,122
+741,2024-01-02,Awesome ambience and delicious food,user_741,Hyderabad,mall,431,124
+742,2024-03-23,"Loved the food at this restaurant, amazing taste!",user_742,Chennai,food outlet,342,175
+743,2024-02-02,The experience was okay overall,user_743,Delhi,retail shop,498,88
+744,2024-03-04,Just a regular experience,user_744,Chennai,retail shop,188,10
+745,2024-02-02,"It was fine, nothing memorable",user_745,Chennai,mall,466,89
+746,2024-01-26,Not worth the price at all,user_746,Hyderabad,food outlet,9,21
+747,2024-01-21,Very satisfied with the service provided,user_747,Mumbai,cafe,275,31
+748,2024-03-27,Poor customer support and delays,user_748,Bangalore,mall,314,28
+749,2024-02-08,"The place is okay, average experience",user_749,Delhi,cafe,49,0
+750,2024-02-14,Moderate quality and decent service,user_750,Bangalore,retail shop,222,105
+751,2024-01-03,Perfect place for family dinner,user_751,Mumbai,retail shop,17,120
+752,2024-01-30,Super fast delivery and great packaging,user_752,Mumbai,restaurant,387,20
+753,2024-03-27,"It was fine, nothing memorable",user_753,Chennai,retail shop,397,75
+754,2024-01-20,Just a regular experience,user_754,Hyderabad,mall,57,83
+755,2024-01-30,Just a regular experience,user_755,Hyderabad,cafe,296,64
+756,2024-01-07,Amazing experience shopping here,user_756,Hyderabad,cafe,17,41
+757,2024-02-01,Bad quality food and poor hygiene,user_757,Chennai,restaurant,432,117
+758,2024-02-16,Average ambiance and service,user_758,Delhi,restaurant,294,187
+759,2024-02-06,"Fantastic experience, will visit again",user_759,Bangalore,cafe,63,178
+760,2024-02-10,Disappointed with product quality,user_760,Chennai,retail shop,259,123
+761,2024-02-19,Super fast delivery and great packaging,user_761,Hyderabad,cafe,69,169
+762,2024-03-13,"It was fine, nothing memorable",user_762,Chennai,cafe,196,103
+763,2024-02-02,Not worth the price at all,user_763,Hyderabad,food outlet,425,29
+764,2024-01-21,Not worth the price at all,user_764,Delhi,restaurant,176,0
+765,2024-03-25,Nothing impressive but acceptable,user_765,Bangalore,mall,328,116
+766,2024-01-28,Very satisfied with the service provided,user_766,Delhi,food outlet,121,43
+767,2024-02-29,Very slow service and bad management,user_767,Hyderabad,cafe,474,51
+768,2024-01-03,"Excellent quality products, highly recommended",user_768,Hyderabad,food outlet,494,151
+769,2024-01-15,"It was fine, nothing memorable",user_769,Mumbai,cafe,101,190
+770,2024-01-24,"Excellent quality products, highly recommended",user_770,Chennai,mall,430,74
+771,2024-03-22,Nothing impressive but acceptable,user_771,Hyderabad,food outlet,15,8
+772,2024-03-25,Perfect place for family dinner,user_772,Chennai,cafe,244,130
+773,2024-01-18,Nothing impressive but acceptable,user_773,Chennai,cafe,92,128
+774,2024-01-15,Super fast delivery and great packaging,user_774,Hyderabad,restaurant,257,112
+775,2024-02-26,Great service and friendly staff at the cafe,user_775,Bangalore,cafe,421,17
+776,2024-01-10,"Fantastic experience, will visit again",user_776,Mumbai,food outlet,416,70
+777,2024-02-21,"Horrible experience, will not return",user_777,Bangalore,restaurant,498,186
+778,2024-01-20,"Fantastic experience, will visit again",user_778,Mumbai,food outlet,46,180
+779,2024-03-10,"Worst experience ever, very disappointed",user_779,Bangalore,retail shop,88,152
+780,2024-03-01,"Horrible experience, will not return",user_780,Delhi,food outlet,213,36
+781,2024-03-04,Amazing experience shopping here,user_781,Delhi,retail shop,166,33
+782,2024-02-21,"Fantastic experience, will visit again",user_782,Hyderabad,food outlet,58,62
+783,2024-02-24,Perfect place for family dinner,user_783,Delhi,cafe,318,192
+784,2024-02-07,The experience was okay overall,user_784,Delhi,food outlet,375,41
+785,2024-02-07,The experience was okay overall,user_785,Chennai,food outlet,134,184
+786,2024-01-28,Awesome ambience and delicious food,user_786,Chennai,cafe,204,160
+787,2024-03-25,"It was fine, nothing memorable",user_787,Hyderabad,mall,250,191
+788,2024-01-20,Disappointed with product quality,user_788,Bangalore,cafe,279,185
+789,2024-01-18,"Food is normal, nothing special",user_789,Mumbai,restaurant,478,111
+790,2024-02-15,Nothing impressive but acceptable,user_790,Mumbai,food outlet,35,64
+791,2024-03-19,Great service and friendly staff at the cafe,user_791,Mumbai,retail shop,381,102
+792,2024-02-03,Awesome ambience and delicious food,user_792,Mumbai,retail shop,439,102
+793,2024-02-06,It was an average visit,user_793,Bangalore,cafe,130,28
+794,2024-02-21,"Excellent quality products, highly recommended",user_794,Chennai,cafe,32,3
+795,2024-02-10,Bad quality food and poor hygiene,user_795,Mumbai,mall,294,8
+796,2024-02-07,Terrible service and rude staff,user_796,Delhi,mall,461,14
+797,2024-02-14,Just a regular experience,user_797,Hyderabad,retail shop,489,123
+798,2024-03-14,"Horrible experience, will not return",user_798,Chennai,cafe,242,53
+799,2024-02-29,Perfect place for family dinner,user_799,Bangalore,mall,89,30
+800,2024-02-03,Disappointed with product quality,user_800,Delhi,retail shop,209,52
+801,2024-03-16,Perfect place for family dinner,user_801,Delhi,restaurant,41,49
+802,2024-02-21,It was an average visit,user_802,Chennai,mall,84,147
+803,2024-03-19,Very satisfied with the service provided,user_803,Bangalore,mall,312,2
+804,2024-02-20,Amazing experience shopping here,user_804,Delhi,cafe,476,42
+805,2024-03-04,"The place is okay, average experience",user_805,Bangalore,cafe,457,41
+806,2024-02-28,"Food is normal, nothing special",user_806,Mumbai,mall,128,112
+807,2024-01-03,"Excellent quality products, highly recommended",user_807,Bangalore,cafe,239,19
+808,2024-02-18,Awful service and dirty place,user_808,Delhi,cafe,254,55
+809,2024-03-13,"Best place in town, very happy with service",user_809,Hyderabad,retail shop,19,75
+810,2024-01-22,Very satisfied with the service provided,user_810,Chennai,restaurant,172,34
+811,2024-02-28,Amazing experience shopping here,user_811,Bangalore,restaurant,71,108
+812,2024-03-07,The experience was okay overall,user_812,Hyderabad,mall,456,147
+813,2024-02-13,Awful service and dirty place,user_813,Delhi,food outlet,159,174
+814,2024-02-11,"It was fine, nothing memorable",user_814,Chennai,mall,442,124
+815,2024-03-11,"The place is okay, average experience",user_815,Mumbai,mall,67,132
+816,2024-02-23,Bad quality food and poor hygiene,user_816,Bangalore,restaurant,232,114
+817,2024-03-23,Just a regular experience,user_817,Bangalore,mall,448,123
+818,2024-02-09,Awful service and dirty place,user_818,Hyderabad,cafe,44,52
+819,2024-03-25,Disappointed with product quality,user_819,Mumbai,retail shop,181,30
+820,2024-03-22,"Food is normal, nothing special",user_820,Hyderabad,retail shop,237,66
+821,2024-01-01,"Loved the food at this restaurant, amazing taste!",user_821,Hyderabad,restaurant,355,2
+822,2024-03-27,"Best place in town, very happy with service",user_822,Bangalore,mall,108,189
+823,2024-03-19,Amazing experience shopping here,user_823,Mumbai,cafe,103,77
+824,2024-03-18,"Best place in town, very happy with service",user_824,Delhi,cafe,147,89
+825,2024-01-05,Amazing experience shopping here,user_825,Hyderabad,cafe,284,14
+826,2024-03-14,Awesome ambience and delicious food,user_826,Delhi,retail shop,301,75
+827,2024-03-25,"Horrible experience, will not return",user_827,Bangalore,mall,337,4
+828,2024-03-24,Very slow service and bad management,user_828,Delhi,restaurant,74,104
+829,2024-03-03,Bad quality food and poor hygiene,user_829,Chennai,food outlet,236,167
+830,2024-03-01,Awful service and dirty place,user_830,Chennai,mall,409,163
+831,2024-01-17,Perfect place for family dinner,user_831,Chennai,retail shop,257,84
+832,2024-03-20,"The place is okay, average experience",user_832,Chennai,mall,339,79
+833,2024-01-16,Moderate quality and decent service,user_833,Chennai,mall,393,19
+834,2024-03-23,Disappointed with product quality,user_834,Bangalore,mall,302,37
+835,2024-01-30,Amazing experience shopping here,user_835,Bangalore,retail shop,412,192
+836,2024-03-21,Awesome ambience and delicious food,user_836,Mumbai,food outlet,397,155
+837,2024-01-09,Terrible service and rude staff,user_837,Delhi,restaurant,0,62
+838,2024-02-21,"Food is normal, nothing special",user_838,Hyderabad,food outlet,433,140
+839,2024-03-16,Poor customer support and delays,user_839,Chennai,mall,342,20
+840,2024-02-05,Poor customer support and delays,user_840,Delhi,food outlet,389,32
+841,2024-03-03,Not worth the price at all,user_841,Mumbai,food outlet,50,53
+842,2024-02-04,"It was fine, nothing memorable",user_842,Bangalore,retail shop,400,171
+843,2024-02-01,Just a regular experience,user_843,Chennai,cafe,107,79
+844,2024-01-27,Super fast delivery and great packaging,user_844,Mumbai,mall,470,98
+845,2024-02-07,Moderate quality and decent service,user_845,Delhi,retail shop,130,26
+846,2024-01-31,"Waste of money, not recommended",user_846,Mumbai,restaurant,418,12
+847,2024-03-10,Bad quality food and poor hygiene,user_847,Hyderabad,retail shop,363,77
+848,2024-03-17,"Best place in town, very happy with service",user_848,Chennai,food outlet,260,171
+849,2024-02-26,Perfect place for family dinner,user_849,Hyderabad,food outlet,233,103
+850,2024-01-11,"Excellent quality products, highly recommended",user_850,Delhi,retail shop,47,99
+851,2024-01-31,"It was fine, nothing memorable",user_851,Delhi,cafe,382,189
+852,2024-03-19,Great service and friendly staff at the cafe,user_852,Mumbai,restaurant,42,165
+853,2024-02-13,"Waste of money, not recommended",user_853,Bangalore,cafe,77,13
+854,2024-03-06,Average ambiance and service,user_854,Mumbai,food outlet,81,12
+855,2024-03-09,"Best place in town, very happy with service",user_855,Chennai,cafe,333,13
+856,2024-03-20,"Excellent quality products, highly recommended",user_856,Mumbai,cafe,235,71
+857,2024-01-19,"It was fine, nothing memorable",user_857,Hyderabad,retail shop,211,14
+858,2024-02-14,"Horrible experience, will not return",user_858,Delhi,food outlet,159,170
+859,2024-01-25,Moderate quality and decent service,user_859,Hyderabad,mall,200,71
+860,2024-01-25,Perfect place for family dinner,user_860,Delhi,retail shop,310,103
+861,2024-02-21,"Excellent quality products, highly recommended",user_861,Chennai,food outlet,184,127
+862,2024-02-09,"Food is normal, nothing special",user_862,Bangalore,food outlet,158,92
+863,2024-02-11,"It was fine, nothing memorable",user_863,Hyderabad,mall,279,88
+864,2024-02-18,Nothing impressive but acceptable,user_864,Mumbai,food outlet,378,1
+865,2024-02-17,Awful service and dirty place,user_865,Mumbai,cafe,313,59
+866,2024-02-20,Poor customer support and delays,user_866,Hyderabad,mall,344,37
+867,2024-02-10,Awful service and dirty place,user_867,Chennai,food outlet,139,74
+868,2024-02-26,Nothing impressive but acceptable,user_868,Delhi,cafe,391,101
+869,2024-03-22,"Excellent quality products, highly recommended",user_869,Bangalore,food outlet,185,67
+870,2024-01-07,It was an average visit,user_870,Delhi,mall,25,82
+871,2024-03-20,Not worth the price at all,user_871,Chennai,restaurant,192,123
+872,2024-03-01,"It was fine, nothing memorable",user_872,Hyderabad,cafe,376,104
+873,2024-03-14,Just a regular experience,user_873,Bangalore,restaurant,167,158
+874,2024-03-24,Amazing experience shopping here,user_874,Chennai,restaurant,84,107
+875,2024-03-18,"Loved the food at this restaurant, amazing taste!",user_875,Chennai,cafe,451,86
+876,2024-03-26,Very slow service and bad management,user_876,Delhi,food outlet,189,118
+877,2024-02-03,Great service and friendly staff at the cafe,user_877,Mumbai,retail shop,373,5
+878,2024-02-06,"Service was fine, not too good not bad",user_878,Hyderabad,cafe,334,46
+879,2024-02-03,"Best place in town, very happy with service",user_879,Delhi,mall,28,112
+880,2024-02-04,"Horrible experience, will not return",user_880,Chennai,restaurant,434,177
+881,2024-03-18,Moderate quality and decent service,user_881,Mumbai,cafe,120,189
+882,2024-02-18,Just a regular experience,user_882,Delhi,restaurant,289,6
+883,2024-02-23,"Waste of money, not recommended",user_883,Mumbai,mall,36,113
+884,2024-03-21,"Best place in town, very happy with service",user_884,Hyderabad,mall,90,113
+885,2024-01-28,Bad quality food and poor hygiene,user_885,Hyderabad,retail shop,24,142
+886,2024-03-31,Disappointed with product quality,user_886,Chennai,cafe,105,64
+887,2024-03-28,Awesome ambience and delicious food,user_887,Delhi,food outlet,445,98
+888,2024-01-13,"Loved the food at this restaurant, amazing taste!",user_888,Bangalore,mall,251,195
+889,2024-01-24,Moderate quality and decent service,user_889,Hyderabad,cafe,283,29
+890,2024-03-15,Moderate quality and decent service,user_890,Bangalore,restaurant,303,104
+891,2024-03-16,Moderate quality and decent service,user_891,Bangalore,mall,341,104
+892,2024-03-06,Super fast delivery and great packaging,user_892,Delhi,retail shop,209,178
+893,2024-01-14,Amazing experience shopping here,user_893,Chennai,mall,448,27
+894,2024-03-21,Disappointed with product quality,user_894,Bangalore,cafe,114,122
+895,2024-01-25,Very slow service and bad management,user_895,Chennai,food outlet,404,70
+896,2024-03-08,Average ambiance and service,user_896,Bangalore,restaurant,237,153
+897,2024-01-21,"Best place in town, very happy with service",user_897,Hyderabad,food outlet,10,51
+898,2024-01-22,Amazing experience shopping here,user_898,Hyderabad,cafe,480,194
+899,2024-02-16,"Horrible experience, will not return",user_899,Bangalore,food outlet,268,101
+900,2024-01-03,Awful service and dirty place,user_900,Mumbai,restaurant,228,176
+901,2024-02-21,"Fantastic experience, will visit again",user_901,Hyderabad,retail shop,400,43
+902,2024-03-03,Not worth the price at all,user_902,Chennai,mall,481,110
+903,2024-01-27,Super fast delivery and great packaging,user_903,Delhi,restaurant,310,63
+904,2024-01-21,Just a regular experience,user_904,Hyderabad,retail shop,432,41
+905,2024-02-08,The experience was okay overall,user_905,Delhi,retail shop,30,186
+906,2024-03-08,Awesome ambience and delicious food,user_906,Bangalore,mall,146,98
+907,2024-02-19,The experience was okay overall,user_907,Chennai,cafe,203,158
+908,2024-03-01,"Food is normal, nothing special",user_908,Hyderabad,cafe,301,10
+909,2024-01-12,"Loved the food at this restaurant, amazing taste!",user_909,Chennai,mall,272,122
+910,2024-03-20,Great service and friendly staff at the cafe,user_910,Chennai,mall,24,22
+911,2024-01-09,Super fast delivery and great packaging,user_911,Chennai,cafe,389,56
+912,2024-02-19,"Loved the food at this restaurant, amazing taste!",user_912,Delhi,restaurant,94,2
+913,2024-03-25,Awesome ambience and delicious food,user_913,Bangalore,restaurant,79,200
+914,2024-03-02,Super fast delivery and great packaging,user_914,Bangalore,mall,484,168
+915,2024-02-20,Average ambiance and service,user_915,Delhi,cafe,298,55
+916,2024-01-22,Great service and friendly staff at the cafe,user_916,Hyderabad,mall,415,68
+917,2024-03-18,"Excellent quality products, highly recommended",user_917,Hyderabad,cafe,178,48
+918,2024-01-28,"Excellent quality products, highly recommended",user_918,Hyderabad,food outlet,301,84
+919,2024-01-20,"It was fine, nothing memorable",user_919,Bangalore,retail shop,244,193
+920,2024-01-15,Disappointed with product quality,user_920,Chennai,retail shop,325,4
+921,2024-02-25,Perfect place for family dinner,user_921,Chennai,food outlet,331,2
+922,2024-02-25,Super fast delivery and great packaging,user_922,Mumbai,food outlet,135,52
+923,2024-02-08,Awesome ambience and delicious food,user_923,Chennai,food outlet,410,184
+924,2024-03-14,Very satisfied with the service provided,user_924,Mumbai,restaurant,181,198
+925,2024-01-20,"Fantastic experience, will visit again",user_925,Mumbai,cafe,220,84
+926,2024-01-02,"Service was fine, not too good not bad",user_926,Chennai,cafe,349,173
+927,2024-02-07,Moderate quality and decent service,user_927,Hyderabad,food outlet,484,105
+928,2024-02-23,Very slow service and bad management,user_928,Mumbai,cafe,430,94
+929,2024-03-31,"It was fine, nothing memorable",user_929,Bangalore,cafe,150,117
+930,2024-03-11,Amazing experience shopping here,user_930,Chennai,cafe,177,18
+931,2024-03-09,Super fast delivery and great packaging,user_931,Hyderabad,retail shop,144,123
+932,2024-01-28,"Service was fine, not too good not bad",user_932,Delhi,retail shop,72,36
+933,2024-03-21,"Fantastic experience, will visit again",user_933,Chennai,retail shop,326,8
+934,2024-02-03,"Loved the food at this restaurant, amazing taste!",user_934,Chennai,cafe,75,184
+935,2024-02-07,Awful service and dirty place,user_935,Mumbai,cafe,380,81
+936,2024-01-22,Awesome ambience and delicious food,user_936,Hyderabad,retail shop,382,112
+937,2024-03-22,"Loved the food at this restaurant, amazing taste!",user_937,Mumbai,food outlet,125,78
+938,2024-03-16,Terrible service and rude staff,user_938,Mumbai,retail shop,67,128
+939,2024-02-04,Super fast delivery and great packaging,user_939,Chennai,food outlet,362,158
+940,2024-02-29,"Fantastic experience, will visit again",user_940,Mumbai,restaurant,470,108
+941,2024-01-25,Poor customer support and delays,user_941,Hyderabad,food outlet,124,8
+942,2024-02-09,Terrible service and rude staff,user_942,Hyderabad,restaurant,320,168
+943,2024-02-09,Not worth the price at all,user_943,Delhi,cafe,253,49
+944,2024-02-17,Nothing impressive but acceptable,user_944,Mumbai,retail shop,91,71
+945,2024-02-09,"Fantastic experience, will visit again",user_945,Bangalore,food outlet,315,52
+946,2024-01-12,It was an average visit,user_946,Chennai,retail shop,419,135
+947,2024-03-01,Average ambiance and service,user_947,Hyderabad,mall,82,101
+948,2024-01-20,Moderate quality and decent service,user_948,Chennai,food outlet,391,78
+949,2024-02-14,"Food is normal, nothing special",user_949,Hyderabad,restaurant,434,30
+950,2024-02-04,Poor customer support and delays,user_950,Hyderabad,food outlet,195,93
+951,2024-02-25,Terrible service and rude staff,user_951,Bangalore,mall,360,23
+952,2024-03-15,"Worst experience ever, very disappointed",user_952,Chennai,retail shop,435,31
+953,2024-01-17,Nothing impressive but acceptable,user_953,Delhi,retail shop,227,189
+954,2024-03-28,"Best place in town, very happy with service",user_954,Hyderabad,cafe,491,178
+955,2024-03-08,The experience was okay overall,user_955,Delhi,cafe,180,6
+956,2024-03-27,Not worth the price at all,user_956,Bangalore,retail shop,455,39
+957,2024-03-31,"Food is normal, nothing special",user_957,Delhi,restaurant,33,8
+958,2024-02-02,Amazing experience shopping here,user_958,Delhi,mall,247,138
+959,2024-01-13,Moderate quality and decent service,user_959,Bangalore,cafe,112,189
+960,2024-02-07,Average ambiance and service,user_960,Delhi,mall,115,96
+961,2024-01-23,Great service and friendly staff at the cafe,user_961,Delhi,retail shop,490,188
+962,2024-02-28,Perfect place for family dinner,user_962,Hyderabad,mall,270,139
+963,2024-01-31,Very satisfied with the service provided,user_963,Bangalore,food outlet,153,147
+964,2024-01-18,Average ambiance and service,user_964,Chennai,restaurant,402,22
+965,2024-02-04,"Loved the food at this restaurant, amazing taste!",user_965,Hyderabad,restaurant,222,75
+966,2024-01-03,Just a regular experience,user_966,Mumbai,retail shop,393,178
+967,2024-02-26,"The place is okay, average experience",user_967,Hyderabad,food outlet,345,116
+968,2024-03-30,Great service and friendly staff at the cafe,user_968,Mumbai,cafe,386,140
+969,2024-01-14,Amazing experience shopping here,user_969,Bangalore,food outlet,143,166
+970,2024-01-18,"Best place in town, very happy with service",user_970,Hyderabad,cafe,146,174
+971,2024-01-01,"Fantastic experience, will visit again",user_971,Bangalore,cafe,412,76
+972,2024-02-27,"Best place in town, very happy with service",user_972,Chennai,mall,142,2
+973,2024-03-27,"Fantastic experience, will visit again",user_973,Hyderabad,food outlet,281,122
+974,2024-02-01,Very satisfied with the service provided,user_974,Delhi,restaurant,49,53
+975,2024-02-19,Not worth the price at all,user_975,Hyderabad,cafe,173,28
+976,2024-03-28,Great service and friendly staff at the cafe,user_976,Hyderabad,food outlet,265,31
+977,2024-01-30,Nothing impressive but acceptable,user_977,Chennai,mall,392,114
+978,2024-01-01,Poor customer support and delays,user_978,Chennai,mall,461,42
+979,2024-02-02,Poor customer support and delays,user_979,Chennai,retail shop,117,163
+980,2024-01-09,Just a regular experience,user_980,Hyderabad,restaurant,75,39
+981,2024-01-16,"Service was fine, not too good not bad",user_981,Chennai,mall,170,17
+982,2024-01-27,Just a regular experience,user_982,Mumbai,mall,77,94
+983,2024-01-04,"Loved the food at this restaurant, amazing taste!",user_983,Chennai,retail shop,96,77
+984,2024-02-22,"Waste of money, not recommended",user_984,Delhi,restaurant,234,45
+985,2024-02-14,Perfect place for family dinner,user_985,Hyderabad,restaurant,440,71
+986,2024-01-01,"Best place in town, very happy with service",user_986,Mumbai,restaurant,374,143
+987,2024-02-20,"Food is normal, nothing special",user_987,Hyderabad,cafe,299,82
+988,2024-01-18,"Waste of money, not recommended",user_988,Delhi,cafe,374,43
+989,2024-02-07,Amazing experience shopping here,user_989,Hyderabad,food outlet,286,190
+990,2024-01-22,"Excellent quality products, highly recommended",user_990,Hyderabad,food outlet,148,155
+991,2024-02-26,"Fantastic experience, will visit again",user_991,Mumbai,retail shop,474,82
+992,2024-01-17,Super fast delivery and great packaging,user_992,Mumbai,mall,467,192
+993,2024-01-17,Super fast delivery and great packaging,user_993,Hyderabad,restaurant,63,45
+994,2024-03-07,"Horrible experience, will not return",user_994,Chennai,cafe,43,76
+995,2024-01-24,Super fast delivery and great packaging,user_995,Delhi,restaurant,469,40
+996,2024-03-29,Terrible service and rude staff,user_996,Bangalore,restaurant,191,133
+997,2024-03-01,Awesome ambience and delicious food,user_997,Hyderabad,food outlet,102,161
+998,2024-01-05,"Worst experience ever, very disappointed",user_998,Bangalore,retail shop,1,170
+999,2024-03-10,The experience was okay overall,user_999,Hyderabad,mall,309,161
+1000,2024-02-04,Very slow service and bad management,user_1000,Mumbai,mall,271,68
